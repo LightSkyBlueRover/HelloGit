@@ -14,5 +14,9 @@ public class Hello {
 		System.out.println("My name is Robert");
 		System.out.println("My major is Computer Engineering!!!!!");
 		
+		System.out.println("\nMy name is Ty. \n");
+		System.out.println("My major is Computer Science as well!");
+
+		
 	}
 }
